@@ -1,0 +1,76 @@
+﻿  Building Custom Rule C:/Users/jonel107/tnm079-code-master/tnm079-code-master/tnm079-code-master/CMakeLists.txt
+  DecimationMesh.cpp
+  QuadricDecimationMesh.cpp
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\QuadricDecimationMesh.cpp(61,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SimpleDecimationMesh.cpp
+  FluidSolver.cpp
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Fluid\FluidSolver.cpp(372,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HalfEdgeMesh.cpp
+  Mesh.cpp
+  SimpleMesh.cpp
+  LineStrip.cpp
+  Cube.cpp
+  Implicit.cpp
+  ImplicitMesh.cpp
+  Quadric.cpp
+  SignedDistanceSphere.cpp
+  Sphere.cpp
+  SphereFractal.cpp
+  FrameMain.cpp
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(129,30): warning C4477: 'fscanf' : format string '%u' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'size_t *'
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(129,30): message : consider using '%zu' in the format string
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(123): message : while compiling class template member function 'void Volume<float>::Load(const std::string &)'
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\FrameMain.cpp(962): message : see reference to function template instantiation 'void Volume<float>::Load(const std::string &)' being compiled
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Geometry/ImplicitMesh.h(45): message : see reference to class template instantiation 'Volume<float>' being compiled
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(129,30): warning C4477: 'fscanf' : format string '%u' requires an argument of type 'unsigned int *', but variadic argument 2 has type 'size_t *'
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(129,30): message : consider using '%zu' in the format string
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(129,30): warning C4477: 'fscanf' : format string '%u' requires an argument of type 'unsigned int *', but variadic argument 3 has type 'size_t *'
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\.\Math/Volume.h(129,30): message : consider using '%zu' in the format string
+  GLAxis.cpp
+  GLGridPlane.cpp
+  GLObject.cpp
+  GLViewer.cpp
+  Generating Code...
+  Compiling...
+  GUI.cpp
+  ScalarCutPlane.cpp
+  VectorCutPlane.cpp
+  FluidVoxelCutPlane.cpp
+  LevelSet.cpp
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp(157,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp(158,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp(159,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp(177,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp(178,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp(179,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LevelSetGrid.cpp
+  LevelSetOperator.cpp
+  TrilinearInterpolator.cpp
+  AdaptiveLoopSubdivisionMesh.cpp
+  LoopSubdivisionMesh.cpp
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\LoopSubdivisionMesh.cpp(110,13): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\LoopSubdivisionMesh.cpp(113,56): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\LoopSubdivisionMesh.cpp(117,47): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+  UniformCubicSpline.cpp
+  UniformCubicSplineSubdivisionCurve.cpp
+  BlackWhiteColorMap.cpp
+  ColorMap.cpp
+  ColorMapFactory.cpp
+  GLObjectPlayback.cpp
+  GrayColorMap.cpp
+  GreenRedColorMap.cpp
+  Heap.cpp
+  HotColorMap.cpp
+  Generating Code...
+  Compiling...
+  HSVColorMap.cpp
+  IsoContourColorMap.cpp
+  JetColorMap.cpp
+  MarchingCubes.cpp
+  ObjIO.cpp
+  trackball.cpp
+  Util.cpp
+  Console.cpp
+  main.cpp
+  Generating Code...
+  MoA.vcxproj -> C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Build\bin\Release\MoA.exe

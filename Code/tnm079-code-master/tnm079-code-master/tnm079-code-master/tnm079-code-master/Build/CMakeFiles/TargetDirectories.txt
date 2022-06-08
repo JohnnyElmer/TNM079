@@ -1,3 +1,0 @@
-C:/Users/jonel107/tnm079-code-master/tnm079-code-master/tnm079-code-master/Build/CMakeFiles/MoA.dir
-C:/Users/jonel107/tnm079-code-master/tnm079-code-master/tnm079-code-master/Build/CMakeFiles/ALL_BUILD.dir
-C:/Users/jonel107/tnm079-code-master/tnm079-code-master/tnm079-code-master/Build/CMakeFiles/ZERO_CHECK.dir

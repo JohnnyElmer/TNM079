@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\DecimationMesh.cpp">
+      <Filter>Decimation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\QuadricDecimationMesh.cpp">
+      <Filter>Decimation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\SimpleDecimationMesh.cpp">
+      <Filter>Decimation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Fluid\FluidSolver.cpp">
+      <Filter>Fluid</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\HalfEdgeMesh.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Mesh.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\SimpleMesh.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\LineStrip.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Cube.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Implicit.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\ImplicitMesh.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Quadric.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\SignedDistanceSphere.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Sphere.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\SphereFractal.cpp">
+      <Filter>Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\FrameMain.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLAxis.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLGridPlane.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLObject.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLViewer.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GUI.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\ScalarCutPlane.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\VectorCutPlane.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\FluidVoxelCutPlane.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.cpp">
+      <Filter>Levelset</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSetGrid.cpp">
+      <Filter>Levelset</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSetOperator.cpp">
+      <Filter>Levelset</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\TrilinearInterpolator.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\AdaptiveLoopSubdivisionMesh.cpp">
+      <Filter>Subdivision</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\LoopSubdivisionMesh.cpp">
+      <Filter>Subdivision</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\UniformCubicSpline.cpp">
+      <Filter>Subdivision</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\UniformCubicSplineSubdivisionCurve.cpp">
+      <Filter>Subdivision</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\BlackWhiteColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\ColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\ColorMapFactory.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\GLObjectPlayback.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\GrayColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\GreenRedColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Heap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\HotColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\HSVColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\IsoContourColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\JetColorMap.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\MarchingCubes.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\ObjIO.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\trackball.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Util.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Console.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\main.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\DecimationInterface.h">
+      <Filter>Decimation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\DecimationMesh.h">
+      <Filter>Decimation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\QuadricDecimationMesh.h">
+      <Filter>Decimation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Decimation\SimpleDecimationMesh.h">
+      <Filter>Decimation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Fluid\FluidSolver.h">
+      <Filter>Fluid</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Geometry.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\HalfEdgeMesh.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Mesh.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\SimpleMesh.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\LineStrip.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Bbox.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\CSG.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Cube.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Implicit.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\ImplicitGradientField.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\ImplicitMesh.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\ImplicitValueField.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Quadric.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\SignedDistanceSphere.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\Sphere.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Geometry\SphereFractal.h">
+      <Filter>Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\FrameMain.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLAxis.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLCamera.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLGridPlane.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLObject.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GLViewer.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\GUI.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\ScalarCutPlane.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\VectorCutPlane.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\GUI\FluidVoxelCutPlane.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSet.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSetGrid.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\LevelSetOperator.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\OperatorAdvect.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\OperatorDilateErode.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\OperatorMeanCurvatureFlow.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\OperatorMorph.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Levelset\OperatorReinitialize.h">
+      <Filter>Levelset</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\ConjugateGradient.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\ConstantVectorField.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\Function3D.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\TrilinearInterpolator.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\Volume.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Math\VortexVectorField.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\AdaptiveLoopSubdivisionMesh.h">
+      <Filter>Subdivision</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\LoopSubdivisionMesh.h">
+      <Filter>Subdivision</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\StrangeSubdivisionMesh.h">
+      <Filter>Subdivision</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\Subdivision.h">
+      <Filter>Subdivision</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\UniformCubicSpline.h">
+      <Filter>Subdivision</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Subdivision\UniformCubicSplineSubdivisionCurve.h">
+      <Filter>Subdivision</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\BitMask3D.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\BlackWhiteColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\ColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\ColorMapFactory.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\GLObjectPlayback.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\GrayColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\GreenRedColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Heap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\HotColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\HSVColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Image.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Image_Impl.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\IsoContourColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\JetColorMap.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\MarchingCubes.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\MarchingCubesTable.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\ObjIO.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Stopwatch.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\trackball.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Util.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\stb\stb_image_write.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\Util\Console.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jonel107\tnm079-code-master\tnm079-code-master\tnm079-code-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Decimation">
+      <UniqueIdentifier>{C5F0C545-7FFF-34A2-8B5E-64BBD50340D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fluid">
+      <UniqueIdentifier>{D67E7E36-AE43-3515-A797-CBD113BCD9D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI">
+      <UniqueIdentifier>{DD1A3E25-91E0-3AE0-9747-7CC3D4C3282D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Geometry">
+      <UniqueIdentifier>{17421193-1DE9-31CD-BDEC-F7457D0E3EDF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levelset">
+      <UniqueIdentifier>{35A4C627-7CB6-3789-84D1-7BF39A221DDD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{21507BD9-2353-3668-B710-D684245E235B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Subdivision">
+      <UniqueIdentifier>{F61F08D8-FCB6-39A5-840E-EAFD6A427918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{9E92E507-4455-31B1-AE95-B3F21B3009C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
